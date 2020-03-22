@@ -1,4 +1,4 @@
-# covid-19-Detection
+# COVID-19-Detection
 Detection of COVID-19 on X-RAY Images using InceptionV3
 
 I speacially thanks to Dr. Adrian Rosebrock for providing the python scripts of COVID-19 detection and Dr Joseph Paul Cohen for providing X-ray images of COVID-19.
@@ -14,6 +14,15 @@ The aim of this task to detect COVID-19 in X-ray images. There are 25 images of 
 I used pretrained InceptionV3 model with 'imagenet' weight along with fine tuning the model. We have to resize the image to 299x299 pixels to pass into the InceptionV3 model. 
 
 ### Output
+20 Random samples of testing example
 
 
+![output image](image/output.png)
+
+
+### Prerequisite
+- Python 3.6/3.7
+- Keras
+- Tensorflow
+- OpenCv
 
