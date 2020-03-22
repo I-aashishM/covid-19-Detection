@@ -1,5 +1,5 @@
 # COVID-19-Detection
-Detection of COVID-19 on X-RAY Images using InceptionV3
+Detection of COVID-19 on X-RAY Images using pretrained InceptionV3 model
 
 I speacially thanks to Dr. Adrian Rosebrock for providing the python scripts of COVID-19 detection and Dr Joseph Paul Cohen for providing X-ray images of COVID-19.
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning by Dr. Adrian Rosebrock](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
